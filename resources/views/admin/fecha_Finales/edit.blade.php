@@ -44,7 +44,7 @@
                                 </div>
 
                               <button class="btn btn-success">Guardar Cambios</button>
-                               
+                            <a href="{{url('home')}}" class="btn btn-default">Cancelar</a>
 
                             </form>
 
